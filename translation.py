@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi {},
-I'm URL TechieX Uploader!
+I'm TechieX URL Uploader!
 You can upload HTTP/HTTPS direct link, Using this bot!
 
 /help for more details!"""
@@ -16,17 +16,17 @@ URL | filename | username | password"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     CUSTOM_CAPTION_UL_FILE = "{}"
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
-    HELP_USER = """How to Use Me? Follow These steps!
+    HELP_USER = """How to Use Me ? Follow These steps!
     
-1. Send url (example.domain/File.mp4 | New Filename.mp4).
+1. Send url [ example.domain/File.mp4 | New Filename.mp4 ].
 2. Send Image As Custom Thumbnail (Optional).
 3. Select the button.
    SVideo - Give File as video with Screenshots
-   DFile  - Give File (video) as file with Screenshots
+   DFile  - Give File [video] as file with Screenshots
    Video  - Give File as video without Screenshots
    File   - Give File without Screenshots
 
-If bot didn't respond, contact @Sources_Codes"""
+If bot didn't respond, contact @techiesneh"""
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Reply /generatecustomthumbnail to a media album, to generate custom thumbail"
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = """Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
 You can use /rename command after receiving file to rename it with custom thumbnail support.
