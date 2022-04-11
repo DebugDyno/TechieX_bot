@@ -1,4 +1,5 @@
 
+# (c) Techie Sneh
 
 import traceback, datetime, asyncio, string, random, time, os, aiofiles, aiofiles.os
 from database.access import clinton

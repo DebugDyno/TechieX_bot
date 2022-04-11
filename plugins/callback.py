@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# (c) Techie Sneh
 
 from pyrogram import filters
 from pyrogram import Client as Clinton

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# (c) Techie Sneh
 
 # the logging things
 import logging
@@ -47,7 +48,7 @@ async def start(bot, update):
                     InlineKeyboardButton(
                         "Source code ⚡", url="https://github.com/mitthu786/TechieX_bot"
                     ),
-                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/techiesneh_official"),
+                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/TechieX_bot"),
                 ],
                 [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/techiesneh")],
             ]

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# (c) Techie Sneh
 
 # the logging things
 import logging
@@ -90,7 +91,7 @@ async def ddl_call_back(bot, update):
                 update.message.message_id,
                 c_time
             )
-        except asyncio.TimeOutError:
+        except asyncio.TimeoutError:
             await bot.edit_message_text(
                 text=Translation.SLOW_URL_DECED,
                 chat_id=update.message.chat.id,

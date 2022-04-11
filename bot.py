@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# (c) Techie Sneh
 
 import os
 from config import Config

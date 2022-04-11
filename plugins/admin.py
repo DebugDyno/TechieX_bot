@@ -1,4 +1,7 @@
 
+# (c) Techie Sneh
+
+
 from pyrogram import Client as Clinton
 from pyrogram import filters
 from config import Config

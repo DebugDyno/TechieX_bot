@@ -1,4 +1,4 @@
-## [@TechieX_BOT](https://t.me/TechieX_bot)
+#### [TechieX-BOT](https://t.me/TechieX_bot)
 ---
 
 Telegram RoBot to Upload Links.
@@ -29,7 +29,7 @@ heroku/python
 ⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/mitthu786/TechieX_bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/mitthu786/TechieX_bot/issues/14#issuecomment-1021253536)
 
 ## BOT COMMANDS
 
@@ -47,5 +47,6 @@ heroku/python
 * [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
 * [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
+
 #### LICENSE
 - GPLv3

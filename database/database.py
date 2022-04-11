@@ -1,3 +1,4 @@
+# (c) Techie Sneh
 
 import datetime
 import motor.motor_asyncio
